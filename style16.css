@@ -1,0 +1,34 @@
+<style>
+    h1{
+    color: brown;   
+    }
+    img{
+        height: 150px;
+        width: 160px;
+    }
+
+
+#firstpic{
+    display: flex;
+    justify-content: left;
+}
+#Secondpic{
+    display: flex;
+    justify-content: right;
+    }
+#Thirdtpic{
+    display: flex;
+    justify-content: center;
+}
+    #Fourthpic{
+        display: flex;
+        justify-content: ;
+    }
+#fifthpic{
+display: flex;
+justify-content: end;
+}
+
+
+
+
